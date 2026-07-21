@@ -21,7 +21,7 @@ A real-time webcam application that lets you draw in the air using hand gestures
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com//jamalsatria13-svg/hand-tracking.git
 cd <your-repo>
 
 python -m venv venv
